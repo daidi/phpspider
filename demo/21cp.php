@@ -33,7 +33,7 @@ $configs = array(
     //),
     'export' => array(
         'type' => 'db',
-        'table' => '21cn',
+        'table' => '21cp',
     ),
     'fields' => array(
         array(
